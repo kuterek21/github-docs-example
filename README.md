@@ -42,8 +42,11 @@ IndexError: index 0 out of array
 ```
 > Here is an example of using a clodeblock for an error that appear in bash.
 
+## Step 3 - Use GitHiub Flavoured Markdown Task List
+
+
 ## References:
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [GitHub Flavored Markdown ](https://github.github.com/gfm/) <sup>[1]</sup>
 
   
