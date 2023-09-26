@@ -50,4 +50,4 @@ IndexError: index 0 out of array
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [GitHub Flavored Markdown ](https://github.github.com/gfm/) <sup>[1]</sup>
 
-  
+  ![Photo to test the hyperlinks](assets/work.JPG)
